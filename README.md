@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Basic cache in Go</h1>
-    <span><strong>Basic cache in go</strong> It is an example of how to use basic cache using Go</span><br />
+    <span><strong>Basic cache in go</strong> It's an example of how to use basic cache using Go</span><br />
 </div>
 
 ## Installation
