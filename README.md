@@ -5,7 +5,7 @@
 
 ## Installation
 ```bash
-go get github.com/bypepe77/basic_cache_in_go/
+go get github.com/bypepe77/basic_cache_in_go
 
 ```
 ### How to run it?
