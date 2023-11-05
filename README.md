@@ -27,7 +27,7 @@ type Todo struct {
 ```
 
 ## How to use it
-
+ 
 ```go
 todoCtrl := todo.NewTodoController()
 
